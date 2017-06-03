@@ -19,12 +19,12 @@ msgstr ""
 
 #: src/ui.py:219
 msgid "Launch Game"
-msgstr ""
+msgstr "Iniciar Juego"
 
 #: src/ui.py:230
 msgid "Checking local installation..."
-msgstr ""
+msgstr "Verificando Instalación Local"
 
 #: src/ui.py:257
 msgid "Checking for updates..."
-msgstr ""
+msgstr "Buscando Actualizaciones"
